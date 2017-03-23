@@ -1,0 +1,14 @@
+body{background-color:#ecf0f0 !important;color:#252525; font-size:14px;}
+.newbuttonpart{ width:100%; height:auto; float:left; margin-bottom:10px;}
+.newbuttonpart_left{width:100px;height:auto; float:left;}
+.newbuttonpart_right{width:255px;height:auto; float:right;}
+.newbuttonpart_right_left{ width:150px;  height:auto; float:left;}
+.newbuttonpart_right_right{ width:100px;  height:auto; float:left; margin-left:5px;}
+.topformpart{ padding:15px 0}
+.btm_btn{ float:left !important;}
+.ipb{ height: 32px !important; }
+.ipbb{ margin-top: 5px !important; }
+.pan_wid{ width:115% !important; }
+.ac_btns{ float:left !important;margin-top: 10px !important; }
+.sp{ margin-top: 10px !important; }
+
